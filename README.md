@@ -18,4 +18,4 @@ It can perform the follwing tasks:<br />
 5.It can play audio of the desired story(one that is choosen from the list)<br/>
 
 # Block diagram
-![alt text](https://github.com/santosh-kumar8367/chatbotVit1/blob/main/ChatbotProp.jpeg?raw=true)
+![alt text](https://github.com/santosh-kumar8367/chatbotVit1/blob/main/Blockdiagram.jpeg?raw=true)
