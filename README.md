@@ -1,7 +1,7 @@
 # chatbotVit1
 This our first chat bot
 # Team name :
-element:Turquoise Halayudha
+Turquoise Halayudha
 # Team members
 1.Reg No:18pa1a05c2 -Pechetti Ramya Sri<br />
 2.Reg No:19pa1a1295 -Penmetsa Shiva Padmaja<br />
