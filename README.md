@@ -16,4 +16,6 @@ It can perform the follwing tasks:<br />
 3.It can pronounce the entered word(i.e word pronounciation)<br />
 4.It can play music<br />
 5.It can play audio of the desired story(one that is choosen from the list)<br/>
+
+# Block diagram
 ![alt text](https://github.com/santosh-kumar8367/chatbotVit1/blob/main/ChatbotProp.jpeg?raw=true)
