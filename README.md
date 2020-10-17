@@ -2,7 +2,7 @@
 This our first chat bot
 # Team members
 1.Reg No:18pa1a05c2 -Pechetti Ramya <br />
-2.Reg No:19pa1a0295 -Penmetsa Shiva Padmaja<br />
+2.Reg No:19pa1a1295 -Penmetsa Shiva Padmaja<br />
 3.Reg No:19pa1a05c9 -Padavala Satya Santosh Kumar <br />
 
 # Our chatBot
