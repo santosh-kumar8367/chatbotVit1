@@ -1,8 +1,9 @@
-
-from math import * #import math library
+#import math library
+from math import * 
 res="false"
+#This function  evaluates an expression
 def cal_exp():
-    """ This function  evaluates an expression"""
+   
     exp_num=input("Enter expression : ")
     try:
         print("Result of",exp_num,"=",eval(exp_num))  #eval functions an expression 
