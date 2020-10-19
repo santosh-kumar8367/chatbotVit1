@@ -1,7 +1,7 @@
 # chatbotVit1
 This our first chat bot
 # Team name :
-Turquoise Halayudha
+**Turquoise Halayudha**
 # Team members
 1.**Reg No:18pa1a05c2 -Pechetti Ramya Sri**<br />
 2.**Reg No:19pa1a1295 -Penmetsa Shiva Padmaja**<br />
@@ -20,7 +20,7 @@ Turquoise Halayudha
 
 # Block diagram
 ![alt text](https://github.com/santosh-kumar8367/chatbotVit1/blob/main/Blockdiagram.jpeg?raw=true)
-# youtube link
+**youtube link**
 https://www.youtube.com/watch?v=7WUoWtadAoA&feature=youtu.be
 
 **Resource links:**
