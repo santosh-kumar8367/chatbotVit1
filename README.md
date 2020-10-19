@@ -21,3 +21,6 @@ Turquoise Halayudha
 # Block diagram
 ![alt text](https://github.com/santosh-kumar8367/chatbotVit1/blob/main/Blockdiagram.jpeg?raw=true)
 # youtube link
+https://www.youtube.com/watch?v=7WUoWtadAoA&feature=youtu.be
+
+**Resource links:**
