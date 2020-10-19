@@ -24,3 +24,16 @@ Turquoise Halayudha
 https://www.youtube.com/watch?v=7WUoWtadAoA&feature=youtu.be
 
 **Resource links:**
+Story links:-
+ * Story for kids  --------> https://www.freechildrenstories.com/raymond-mayweather-and-the-blue-planet#:~:text=Raymond%20Mayweather%20had%20tuned%20up,course%2C%20for%20an%20unchartered%20place.&text=He%20lowered%20his%20ship%20to,didn't%20have%20much%20luck.
+ 
+ * Moral Story ---------->        http://www.english-for-students.com/The-Foolish-Donkey-1.html
+ 
+ * Thriller story ---------> https://www.wattpad.com/246916116-scary-short-stories-the-accident%27-by-minnboy
+ 
+ * Horror story ---> https://www.facebook.com/HorrorStoriesAndImages/photos/guardians-by-darkalligatorhe-awoke-to-the-huge-insect-like-creatures-looming-ove/1336475609785638/
+ 
+ * Humorous story -------> https://inspire21.com/prayer-answered-professionally/
+ 
+ Audio links:-
+ * audio file link --> https://freesound.org/people/envirOmaniac2/sounds/388851/
