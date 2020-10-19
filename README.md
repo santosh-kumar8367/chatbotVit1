@@ -23,8 +23,8 @@ Turquoise Halayudha
 # youtube link
 https://www.youtube.com/watch?v=7WUoWtadAoA&feature=youtu.be
 
-**Resource links:**<br/>
-Story links:-
+**Resource links:**
+<br /> Story links:-
  * Story for kids  --------> https://www.freechildrenstories.com/raymond-mayweather-and-the-blue-planet#:~:text=Raymond%20Mayweather%20had%20tuned%20up,course%2C%20for%20an%20unchartered%20place.&text=He%20lowered%20his%20ship%20to,didn't%20have%20much%20luck.
  
  * Moral Story ---------->        http://www.english-for-students.com/The-Foolish-Donkey-1.html
