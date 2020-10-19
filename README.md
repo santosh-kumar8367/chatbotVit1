@@ -1,16 +1,16 @@
 # chatbotVit1
 This our first chat bot
 # Team name :
-####Turquoise Halayudha####
-#### Team members
-1.Reg No:18pa1a05c2 -Pechetti Ramya Sri<br />
-2.Reg No:19pa1a1295 -Penmetsa Shiva Padmaja<br />
-3.Reg No:19pa1a05c9 -Padavala Satya Santosh Kumar <br />
+##### Turquoise Halayudha
+##### Team members
+1.**Reg No:18pa1a05c2 -Pechetti Ramya Sri**<br />
+2.**Reg No:19pa1a1295 -Penmetsa Shiva Padmaja**<br />
+3.**Reg No:19pa1a05c9 -Padavala Satya Santosh Kumar** <br />
 
 # Our chatBot
 
 # About our chatBot
-****This is a baby chatBot that can perform some simple tasks ****<br />
+***This is a baby chatBot that can perform some simple tasks***<br />
 # What our chat bot can do?
 It can perform the follwing tasks:<br />
 1.Evalute an expression<br />
