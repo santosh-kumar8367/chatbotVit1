@@ -1,7 +1,7 @@
 # chatbotVit1
 ***This our first chat bot***
 # Team name :
-###### Turquoise Halayudha
+ ***Turquoise Halayudha***
 # Team members
 1.***Reg No:18pa1a05c2 -Pechetti Ramya Sri**<br />
 2.**Reg No:19pa1a1295 -Penmetsa Shiva Padmaja**<br />
@@ -20,10 +20,10 @@
 
 # Block diagram
 ![alt text](https://github.com/santosh-kumar8367/chatbotVit1/blob/main/Blockdiagram.jpeg?raw=true)
-**Youtube link**
+# Youtube link
 <br/>https://www.youtube.com/watch?v=7WUoWtadAoA&feature=youtu.be
 
-**Resource links:** <br/>
+# Resource links:** <br/>
  ## Story links:-
  ###### Story for kids   --------> https://www.freechildrenstories.com/raymond-mayweather-and-the-blue-  planet#:~:text=Raymond%20Mayweather%20had%20tuned%20up,course%2C%20for%20an%20unchartered%20place.&text=He%20lowered%20his%20ship%20to,didn't%20have%20much%20luck.
  
