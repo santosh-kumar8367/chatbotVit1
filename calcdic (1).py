@@ -1,6 +1,6 @@
 #Dictionary of the chatbot
 #code for dictionary starts 
-from math import sin,cos,tan,factorial,fabs
+from math import *
 import random
 from PyDictionary import PyDictionary
 dictionary=PyDictionary()
