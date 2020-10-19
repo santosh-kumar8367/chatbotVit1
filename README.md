@@ -38,3 +38,16 @@ This our first chat bot
  Audio links:-
  
  * audio file link --> https://freesound.org/people/envirOmaniac2/sounds/388851/
+ 
+ Emojis:-
+ * Emojis Link ----->https://unicode.org/emoji/charts/emoji-list.html
+ 
+ Library links:-
+ * https://pypi.org/project/emoji/
+ 
+ * https://pypi.org/project/playsound/
+ 
+ * https://pypi.org/project/gTTS/
+ 
+ * https://pypi.org/project/PyDictionary/
+ 
