@@ -2,19 +2,23 @@ import random
 from gtts import gTTS
 import os
 import emoji
-from math import sin,cos,tan,factorial,fabs
+from math import *
 from datetime import datetime
 
+#introduces itself to the user
 def intitiating_bot():
     intro=["\nHey good to see you.. "+emoji.emojize(":star-struck:")+" I am chatbot  \n","Hello user hope you are doing well.. "+emoji.emojize(":grinning_face_with_big_eyes:")+" I am chat bot   \n "]
     return random.choice(intro)
 
+#Asks name of the user
 def asking_info():
 
     return input()
 
+
+#Greats user
 def greeting_user():
-    current_time = datetime.now()
+    current_time = datetime.now().time()
     current_wish = "Good morning"
     if(current_time.hour>12 and current_time.hour<18):
         current_wish="Good afternoon ! "
@@ -26,6 +30,7 @@ def greeting_user():
         current_wish="Hey it is too late ! "
     return current_wish+emoji.emojize(":slightly_smiling_face:")
 
+#This function converts text to speech
 def text_to_speech():
     mytext = input("enter the word that you want it's spell : ")
     if(mytext != "quit"):
@@ -38,6 +43,7 @@ def text_to_speech():
     if(res=="quit"):
         return res
 
+#function of bot starts here
 def bot():
     print(intitiating_bot())
     print("Could I know your name please "+emoji.emojize(":smiling_face_with_smiling_eyes:"))
@@ -70,7 +76,6 @@ def bot():
             while(res!="quit"):
                 res=dict_bot_out()
             
-            
 
         elif(option == 3):
             from storytelling import music
@@ -95,5 +100,7 @@ def bot():
             print("Please enter valid option.. ",emoji.emojize(":disappointed_face:")+"\n")
 
             
-            
+#bot function ends
+
+#calling of bot
 bot()
